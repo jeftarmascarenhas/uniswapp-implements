@@ -1,0 +1,18 @@
+{
+  "name": "swap-tokens-v3",
+  "version": "1.0.0",
+  "description": "This example shows how to swap tokens on Uniswap V3 using Ethers.js and Javascript. After implement this code you can trader on Uniswap V3, I using test networks, be careful if you use this code in mainnet I'm not responsible.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jeff Mascarenhas",
+  "license": "ISC",
+  "dependencies": {
+    "@uniswap/sdk-core": "^3.0.1",
+    "@uniswap/v3-sdk": "^3.8.2",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.1"
+  }
+}
